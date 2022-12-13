@@ -14,9 +14,9 @@ const MyPosts = () => {
                     New post
                     </div>
                     <div className={s.posts}>
-                        <Post />
-                        <Post />
-                        <Post />
+                        <Post msg = 'Привет чорт' />
+                        <Post msg = "Маму ебал"/>
+                        <Post msg = "Ты лох" />
                     </div>
             </div>
     );

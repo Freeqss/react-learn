@@ -6,3 +6,8 @@
     height: 40px;
     border-radius: 30px;
 }
+.like {
+    font-family: Consolas;
+    font-size: 40px;
+    color: crimson;
+}

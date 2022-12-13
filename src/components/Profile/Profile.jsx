@@ -4,7 +4,7 @@ import MyPosts from "./MyPosts/MyPosts";
 const Profile = () => {
     return (
         <div className={s.content}>
-            <img src={'https://p4.wallpaperbetter.com/wallpaper/221/1008/838/art-background-dual-fantasy-wallpaper-preview.jpg'}/>
+            <img src='https://p4.wallpaperbetter.com/wallpaper/221/1008/838/art-background-dual-fantasy-wallpaper-preview.jpg' alt=""/>
             <div>
                 avatar + description
             </div>
